@@ -1,7 +1,7 @@
 {
   "name": "Tech session",
-  "short_name": "PWA",
-  "start_url": "/",
+  "short_name": "Tech session",
+  "start_url": "/index.html",
   "icons": [
     {
       "src": "icons/manifest-icon-192.maskable.png",
@@ -30,6 +30,6 @@
   ],
   "theme_color": "#28E288",
   "background_color": "#28E288",
-  "display": "fullscreen",
-  "orientation": "display"
+  "display": "standalone",
+  "orientation": "portrait"
 }
