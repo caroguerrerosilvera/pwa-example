@@ -1,0 +1,10 @@
+{
+  "name": "Tech session",
+  "short_name": "Tech session",
+  "start_url": "/",
+  "icons": [],
+  "theme_color": "#28E288",
+  "background_color": "#28E288",
+  "display": "fullscreen",
+  "orientation": "display"
+}
