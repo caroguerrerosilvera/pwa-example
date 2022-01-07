@@ -1,8 +1,16 @@
 {
+  "id": "ayenda",
   "name": "Tech session",
+  "description": "PWA test",
   "short_name": "Tech session",
-  "start_url": "/index.html",
+  "start_url": "/",
   "icons": [
+    {
+      "src": "icons/apple-touch-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
     {
       "src": "icons/manifest-icon-192.maskable.png",
       "sizes": "192x192",

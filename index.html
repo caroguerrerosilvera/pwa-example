@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/styles.css" />
     <link rel="manifest" href="/manifest.json" />
     <link rel="apple-touch-icon" href="icons/apple-icon-180.png" />
-
+    <meta name="theme-color" content="#28E288" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
     <link
@@ -147,7 +147,7 @@
     <img src="https://picsum.photos/200/300" alt="Random image" />
     <script>
       if ("serviceWorker" in navigator) {
-        navigator.serviceWorker.register("/sw.js");
+        navigator.serviceWorker.register("./service-worker.js");
       }
     </script>
   </body>
